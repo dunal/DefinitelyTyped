@@ -1,0 +1,14 @@
+{
+    "private": true,
+    "name": "@types/hash-code",
+    "version": "1.0.1",
+    "projects": [
+        "https://github.com/coderhaoxin/hash-code"
+    ],
+    "owners": [
+        {
+            "name": "Dunal",
+            "githubUsername": "dunal"
+        }
+    ]
+}
